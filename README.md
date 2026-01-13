@@ -35,13 +35,8 @@ This generates sample JSON and HTML output without connecting to Microsoft Graph
 ---
 ## Output
 Generated files are written to the out folder:
-- ai-agent-monitor.json
-Structured findings used as the source of truth
-- ai-agent-monitor.html
-Human-readable, tabular report suitable for:
-- Admin review
-- Audit evidence
-- Security discussions
+- ai-agent-monitor.json (Structured findings used as the source of truth)
+- ai-agent-monitor.html (Human-readable, tabular report suitable for Admin review, Audit evidence, Security discussions)
 ---
 ## Report format (CISA/NIST style)
 The HTML report includes:
