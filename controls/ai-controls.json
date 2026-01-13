@@ -1,0 +1,10 @@
+[
+ {
+   "id": "AIAPP_001",
+   "title": "AI apps detected in Entra ID",
+   "category": "Inventory",
+   "severity": "Info",
+   "weight": 0,
+   "recommendation": "Review AI-related enterprise apps and validate ownership and access."
+ }
+]
