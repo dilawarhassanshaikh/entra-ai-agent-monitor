@@ -38,6 +38,15 @@ Generated files are written to the out folder:
 - ai-agent-monitor.json (Structured findings used as the source of truth)
 - ai-agent-monitor.html (Human-readable, tabular report suitable for Admin review, Audit evidence, Security discussions)
 ---
+## Visual Evidence: Enterprise Reporting
+
+![Example: Automated NIST-Aligned HTML Compliance Report.](entra-ai-agent-sample-report-ss.png)
+*Example: Automated NIST-Aligned HTML Compliance Report.*
+
+![Example: Machine-readable risk assessment JSON payload.](entra-ai-agent-sample-json-ss.png)
+*Example: Machine-readable risk assessment JSON payload.*
+
+---
 ## Report format (CISA/NIST style)
 The HTML report includes:
 - Executive summary
